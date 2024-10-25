@@ -12,13 +12,10 @@ an old-fashioned analog radio dial, we have turned it into a device that can be 
 legacy radios to the digital age or it can be used as the heart of a modern day homebrew radio.
 The hardware and software modifications include:
 
-    •	Multiband capability
-    •	Allow the use of PCF8574 chips to read a physical band switch and/or mode switch.
-    •	Allow use of either ST7735 based displays or the ILI9341 based displays and allow a
-      display size of up to 240x320 pixels
-    •	Replaced TJ’s handcrafted rotary encoder code with a standard library. At the same
-      time added the ability to use high speed optical encoders and adjust the effective
-      PPR rate in the software.
+•	Multiband capability
+•	Allow the use of PCF8574 chips to read a physical band switch and/or mode switch.
+•	Allow use of either ST7735 based displays or the ILI9341 based displays and allow a display size of up to 240x320 pixels
+•	Replaced TJ’s handcrafted rotary encoder code with a standard library. At the same time added the ability to use high speed optical encoders and adjust the effective PPR rate in the software.
     •	Addition of a clarifier which can be implemented via a second encoder or a
       potentiometer (still having issues with the later).
     •	Added the ability to read and control the TX/RX status of the radio.
