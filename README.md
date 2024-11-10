@@ -53,7 +53,9 @@ Version 1.1 Changes:
 This approach allows modes to be selected either manually or via CAT control, which is not
 the case using a rotary type switch to select modes.
 
-Known Issues (Updated 06/06/2021)
+
+Known Issues (Updated 06/06/2021):
+
 Bob (G3PJT) had a problem using the 12x x 160 display which was causing the screen to b
 distorted (picture in the Hacker's Guide).
 
