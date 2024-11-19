@@ -1,9 +1,9 @@
-It’s Not Just Another Digital VFO - Version 1.0
+#It’s Not Just Another Digital VFO - Version 1.0
 
-Developed By:
-John Price – WA2FZW
-Glenn Percy – VK3PE
-Jim Smith – G3ZQC
+#Developed By:
+#John Price – WA2FZW
+#Glenn Percy – VK3PE
+#Jim Smith – G3ZQC
 
 The project is a heavily modified version of the VFO originally created by T.J. Uebo (JF3HZB).
 
