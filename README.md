@@ -53,15 +53,15 @@ the case using a rotary type switch to select modes.
 
 Known Issues (Updated 06/06/2021):
 
-Bob (G3PJT) had a problem using the 12x x 160 display which was causing the screen to b
-distorted (picture in the Hacker's Guide).
+Bob (G3PJT) had a problem using the 128x x 160 display which was causing the screen to be
+distorted (picture in the updated Hacker's Guide).
 
 We couldn’t find a solution to the problem in the VFO software, however it turned out that
 Bob was using version 2.3.61 of the TFT_eSPI library (latest version at the time). When
 Glenn, Jim and I developed the software, we were using version 2.2.14 of the library. 
 
 When Bob reverted back to the older version it worked correctly. Although even though
-the display has a green tab, Bob had to tell the library that it was a display with a
+his display had a green tab, Bob had to tell the library that it was a display with a
 black tab.
 
 If you are having display problems using a version of the library newer than version
